@@ -164,3 +164,9 @@ h3{
 .inbetweentextboxthing > p {
     text-align: center;
 }
+
+.book-excerpt {
+    margin: 0px 10%;
+    box-sizing: border-box;
+    display: flex;
+}
